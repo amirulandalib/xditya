@@ -51,7 +51,7 @@
 ## 💻 Latest Activities
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#22](https://github.com/KangersHub/TorrentLeechX/issues/22) in [KangersHub/TorrentLeechX](https://github.com/KangersHub/TorrentLeechX)
+1. 🗣 Commented on [#54](https://github.com/cheems/goindex-extended/issues/54) in [cheems/goindex-extended](https://github.com/cheems/goindex-extended)
 2. 🗣 Commented on [#22](https://github.com/KangersHub/TorrentLeechX/issues/22) in [KangersHub/TorrentLeechX](https://github.com/KangersHub/TorrentLeechX)
 3. 🗣 Commented on [#37](https://github.com/TeamUltroid/pyUltroid/issues/37) in [TeamUltroid/pyUltroid](https://github.com/TeamUltroid/pyUltroid)
 4. 🗣 Commented on [#37](https://github.com/TeamUltroid/pyUltroid/issues/37) in [TeamUltroid/pyUltroid](https://github.com/TeamUltroid/pyUltroid)
