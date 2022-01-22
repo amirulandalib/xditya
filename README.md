@@ -51,7 +51,7 @@
 ## 💻 Latest Activities
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#24](https://github.com/KangersHub/TorrentLeechX/pull/24) in [KangersHub/TorrentLeechX](https://github.com/KangersHub/TorrentLeechX)
+1. 🗣 Commented on [#44](https://github.com/KangersHub/TorToolkitX/issues/44) in [KangersHub/TorToolkitX](https://github.com/KangersHub/TorToolkitX)
 2. 🎉 Merged PR [#23](https://github.com/KangersHub/TorrentLeechX/pull/23) in [KangersHub/TorrentLeechX](https://github.com/KangersHub/TorrentLeechX)
 3. 🎉 Merged PR [#43](https://github.com/KangersHub/TorToolkitX/pull/43) in [KangersHub/TorToolkitX](https://github.com/KangersHub/TorToolkitX)
 4. ❗️ Opened issue [#55](https://github.com/cheems/goindex-extended/issues/55) in [cheems/goindex-extended](https://github.com/cheems/goindex-extended)
