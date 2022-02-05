@@ -51,8 +51,8 @@
 ## 💻 Latest Activities
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#44](https://github.com/KangersHub/TorToolkitX/pull/44) in [KangersHub/TorToolkitX](https://github.com/KangersHub/TorToolkitX)
-2. 🗣 Commented on [#44](https://github.com/KangersHub/TorToolkitX/issues/44) in [KangersHub/TorToolkitX](https://github.com/KangersHub/TorToolkitX)
+1. ❌ Closed PR [#45](https://github.com/KangersHub/TorToolkitX/pull/45) in [KangersHub/TorToolkitX](https://github.com/KangersHub/TorToolkitX)
+2. 🗣 Commented on [#45](https://github.com/KangersHub/TorToolkitX/issues/45) in [KangersHub/TorToolkitX](https://github.com/KangersHub/TorToolkitX)
 3. 🎉 Merged PR [#43](https://github.com/KangersHub/TorToolkitX/pull/43) in [KangersHub/TorToolkitX](https://github.com/KangersHub/TorToolkitX)
 4. ❗️ Opened issue [#55](https://github.com/cheems/goindex-extended/issues/55) in [cheems/goindex-extended](https://github.com/cheems/goindex-extended)
 5. 🗣 Commented on [#54](https://github.com/cheems/goindex-extended/issues/54) in [cheems/goindex-extended](https://github.com/cheems/goindex-extended)
