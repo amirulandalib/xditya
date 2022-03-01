@@ -51,9 +51,9 @@
 ## 💻 Latest Activities
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#59](https://github.com/cheems/goindex-extended/issues/59) in [cheems/goindex-extended](https://github.com/cheems/goindex-extended)
-2. 🎉 Merged PR [#25](https://github.com/KangersHub/TorrentLeechX/pull/25) in [KangersHub/TorrentLeechX](https://github.com/KangersHub/TorrentLeechX)
-3. ❌ Closed PR [#45](https://github.com/KangersHub/TorToolkitX/pull/45) in [KangersHub/TorToolkitX](https://github.com/KangersHub/TorToolkitX)
+1. 🗣 Commented on [#32](https://github.com/rayanfer32/TgindexPro/issues/32) in [rayanfer32/TgindexPro](https://github.com/rayanfer32/TgindexPro)
+2. ❗️ Opened issue [#59](https://github.com/cheems/goindex-extended/issues/59) in [cheems/goindex-extended](https://github.com/cheems/goindex-extended)
+3. 🎉 Merged PR [#25](https://github.com/KangersHub/TorrentLeechX/pull/25) in [KangersHub/TorrentLeechX](https://github.com/KangersHub/TorrentLeechX)
 4. 🗣 Commented on [#45](https://github.com/KangersHub/TorToolkitX/issues/45) in [KangersHub/TorToolkitX](https://github.com/KangersHub/TorToolkitX)
 5. 🗣 Commented on [#54](https://github.com/cheems/goindex-extended/issues/54) in [cheems/goindex-extended](https://github.com/cheems/goindex-extended)
 <!--END_SECTION:activity-->
