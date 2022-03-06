@@ -51,8 +51,8 @@
 ## 💻 Latest Activities
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#32](https://github.com/rayanfer32/TgindexPro/issues/32) in [rayanfer32/TgindexPro](https://github.com/rayanfer32/TgindexPro)
-2. ❗️ Opened issue [#59](https://github.com/cheems/goindex-extended/issues/59) in [cheems/goindex-extended](https://github.com/cheems/goindex-extended)
+1. 🗣 Commented on [#6](https://github.com/developeranaz/qbittorrent-to-rclone-heroku/issues/6) in [developeranaz/qbittorrent-to-rclone-heroku](https://github.com/developeranaz/qbittorrent-to-rclone-heroku)
+2. 🗣 Commented on [#32](https://github.com/rayanfer32/TgindexPro/issues/32) in [rayanfer32/TgindexPro](https://github.com/rayanfer32/TgindexPro)
 3. 🎉 Merged PR [#25](https://github.com/KangersHub/TorrentLeechX/pull/25) in [KangersHub/TorrentLeechX](https://github.com/KangersHub/TorrentLeechX)
 4. 🗣 Commented on [#45](https://github.com/KangersHub/TorToolkitX/issues/45) in [KangersHub/TorToolkitX](https://github.com/KangersHub/TorToolkitX)
 5. 🗣 Commented on [#54](https://github.com/cheems/goindex-extended/issues/54) in [cheems/goindex-extended](https://github.com/cheems/goindex-extended)
