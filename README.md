@@ -51,9 +51,9 @@
 ## 💻 Latest Activities
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#6](https://github.com/developeranaz/qbittorrent-to-rclone-heroku/issues/6) in [developeranaz/qbittorrent-to-rclone-heroku](https://github.com/developeranaz/qbittorrent-to-rclone-heroku)
+1. ❌ Closed PR [#1](https://github.com/AmirulAndalib/yukkimusictest/pull/1) in [AmirulAndalib/yukkimusictest](https://github.com/AmirulAndalib/yukkimusictest)
 2. 🗣 Commented on [#6](https://github.com/developeranaz/qbittorrent-to-rclone-heroku/issues/6) in [developeranaz/qbittorrent-to-rclone-heroku](https://github.com/developeranaz/qbittorrent-to-rclone-heroku)
-3. 🗣 Commented on [#32](https://github.com/rayanfer32/TgindexPro/issues/32) in [rayanfer32/TgindexPro](https://github.com/rayanfer32/TgindexPro)
+3. 🗣 Commented on [#6](https://github.com/developeranaz/qbittorrent-to-rclone-heroku/issues/6) in [developeranaz/qbittorrent-to-rclone-heroku](https://github.com/developeranaz/qbittorrent-to-rclone-heroku)
 4. 🗣 Commented on [#45](https://github.com/KangersHub/TorToolkitX/issues/45) in [KangersHub/TorToolkitX](https://github.com/KangersHub/TorToolkitX)
 5. 🗣 Commented on [#54](https://github.com/cheems/goindex-extended/issues/54) in [cheems/goindex-extended](https://github.com/cheems/goindex-extended)
 <!--END_SECTION:activity-->
